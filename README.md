@@ -1,4 +1,4 @@
-## baekjoon
+## 고오오오오옹부
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxqwas9510)](https://solved.ac/zxqwas9510/)
 
 <!--
