@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=로고명&logoColor=로고색"/>
+<img src="https://img.shields.io/badge/C++-00283?style=flat-square&logo=c++&logoColor=white"/>
 <!--
 **sukkkuuuu/sukkkuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
